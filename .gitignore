@@ -1,7 +1,0 @@
-# 개인 정보가 들어 있어 올리지 않는다
-runs/
-traces/*.jsonl
-!traces/hook-*.jsonl
-traces/*.err
-traces/results.json
-traces/_*.txt

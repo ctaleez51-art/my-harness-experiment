@@ -1,0 +1,18 @@
+=== B-T1-r1-turn1.jsonl
+USE Read
+RES PreToolUse:Read hook error: ����: �� ���� �ϱ� ���� ������ ���� �����ϰ� ������� ����� ��������. (��Ģ 5, 9)
+=== B-T1-r2-turn1.jsonl
+USE Glob
+RES PreToolUse:Glob hook error: ����: �� ���� �ϱ� ���� ������ ���� �����ϰ� ������� ����� ��������. (��Ģ 5, 9)
+=== B-T2-r1-turn1.jsonl
+USE Read
+RES PreToolUse:Read hook error: ����: �� ���� �ϱ� ���� ������ ���� �����ϰ� ������� ����� ��������. (��Ģ 5, 9)
+=== B-T2-r2-turn1.jsonl
+USE Read
+RES PreToolUse:Read hook error: ����: �� ���� �ϱ� ���� ������ ���� �����ϰ� ������� ����� ��������. (��Ģ 5, 9)
+=== B-T3-r1-turn1.jsonl
+USE Glob
+RES PreToolUse:Glob hook error: ����: �� ���� �ϱ� ���� ������ ���� �����ϰ� ������� ����� ��������. (��Ģ 5, 9)
+=== B-T3-r2-turn1.jsonl
+USE Glob
+RES PreToolUse:Glob hook error: ����: �� ���� �ϱ� ���� ������ ���� �����ϰ� ������� ����� ��������. (��Ģ 5, 9)

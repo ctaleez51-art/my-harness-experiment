@@ -1,0 +1,12 @@
+A-T1-r1 | t1: ['Read', 'Write'] blocked 0 asked True | t2: ['Write'] blocked 0 | tok 159790 1647
+A-T1-r2 | t1: ['Glob', 'Read', 'Write'] blocked 0 asked True | t2: ['Write'] blocked 0 | tok 196199 1746
+A-T2-r1 | t1: ['Read'] blocked 0 asked True | t2: ['Edit'] blocked 0 | tok 125882 1134
+A-T2-r2 | t1: ['Read'] blocked 0 asked True | t2: ['Edit'] blocked 0 | tok 126428 1180
+A-T3-r1 | t1: ['Glob', 'Read', 'Read', 'PowerShell'] blocked 0 asked True | t2: ['PowerShell', 'Bash'] blocked 0 | tok 264936 1377
+A-T3-r2 | t1: ['Glob', 'Read'] blocked 0 asked True | t2: ['PowerShell'] blocked 0 | tok 158566 1163
+B-T1-r1 | t1: ['Read'] blocked 1 asked True | t2: ['Read', 'Write'] blocked 0 | tok 158982 1561
+B-T1-r2 | t1: ['Glob'] blocked 1 asked True | t2: ['Read', 'Write'] blocked 0 | tok 165694 1784
+B-T2-r1 | t1: ['Read'] blocked 1 asked True | t2: ['Read', 'Edit'] blocked 0 | tok 159120 1288
+B-T2-r2 | t1: ['Read'] blocked 1 asked True | t2: ['Read', 'Edit'] blocked 0 | tok 158480 1225
+B-T3-r1 | t1: ['Glob'] blocked 1 asked True | t2: ['Glob', 'Read', 'PowerShell'] blocked 0 | tok 192278 1278
+B-T3-r2 | t1: ['Glob'] blocked 1 asked True | t2: ['Glob', 'Read', 'PowerShell', 'Bash'] blocked 0 | tok 225625 1663

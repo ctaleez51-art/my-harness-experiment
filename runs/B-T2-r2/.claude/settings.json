@@ -1,0 +1,12 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "*",
+        "hooks": [
+          { "type": "command", "command": "python \"C:/Users/ctale/Desktop/claudecode/my-harness-experiment/hook/require_permission.py\"" }
+        ]
+      }
+    ]
+  }
+}
