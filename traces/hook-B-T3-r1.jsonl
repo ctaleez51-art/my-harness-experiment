@@ -1,0 +1,4 @@
+{"time": "2026-10-19T19:33:10.394113", "tool": "Glob", "allowed": false}
+{"time": "2026-10-19T19:33:20.715267", "tool": "Glob", "allowed": true}
+{"time": "2026-10-19T19:33:22.517137", "tool": "Read", "allowed": true}
+{"time": "2026-10-19T19:33:24.204874", "tool": "PowerShell", "allowed": true}

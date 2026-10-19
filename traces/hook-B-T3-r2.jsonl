@@ -1,0 +1,5 @@
+{"time": "2026-10-19T19:33:10.322480", "tool": "Glob", "allowed": false}
+{"time": "2026-10-19T19:33:21.519014", "tool": "Glob", "allowed": true}
+{"time": "2026-10-19T19:33:23.579722", "tool": "Read", "allowed": true}
+{"time": "2026-10-19T19:33:25.703004", "tool": "PowerShell", "allowed": true}
+{"time": "2026-10-19T19:33:29.514413", "tool": "Bash", "allowed": true}
